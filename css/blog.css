@@ -1,0 +1,28 @@
+@importar url (quienes somo.css);
+
+#Catalogo h3, h4 {
+	text-align: center;
+}
+
+#Catalogo .contenedor{
+	display: flex;
+	justify-content:	center;
+	flex-wrap: wrap;
+}
+
+#Catalogo article {
+	margin: 15 px;
+}
+
+#Catalogo img {
+	width: 100%;
+	max-width: 280px;
+}
+#img src-center {
+	display: block;
+	margin-left: auto;
+	max-resolution: auto;
+}
+#articule h3, h4 {
+	text-align: center;
+}

@@ -1,0 +1,28 @@
+#info {
+	background: #333;
+	color: #fff;
+	text-align: centet;
+}
+
+#info .contenedor {
+	display: flex;
+	flex-wrap_ wrap;
+	justify-content; center;
+}
+
+.info-perfumes {
+	margin: 20px;
+}
+
+.info-perfumes img {
+	width:	180px;
+	height: 180px;
+	border-radius: 50%;
+	border: 7px solid #fff;
+}
+
+@media (media-width: 480px) {
+	.info-perfumes {
+		width: 40%;
+	}
+}
